@@ -72,8 +72,8 @@ These strategies allow Sephora to better allocate marketing resources, elevate t
 * Translated technical findings into actionable business recommendations aligned with marketing and merchandising objectives
 
 ## Contributors 
-**Christie Shin**
-Shivani Vallamdas
-Vishal Srivastava
-Shuai Zhao
-Gema Zhu
+* **Christie Shin**
+* Shivani Vallamdas
+* Vishal Srivastava
+* Shuai Zhao
+* Gema Zhu
